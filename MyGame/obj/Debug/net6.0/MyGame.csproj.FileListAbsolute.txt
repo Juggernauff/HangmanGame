@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\MyGame\MyGame\bin\Debug\net6.0\MyGame.exe
+D:\OneDrive\Рабочий стол\MyGame\MyGame\bin\Debug\net6.0\MyGame.deps.json
+D:\OneDrive\Рабочий стол\MyGame\MyGame\bin\Debug\net6.0\MyGame.runtimeconfig.json
+D:\OneDrive\Рабочий стол\MyGame\MyGame\bin\Debug\net6.0\MyGame.dll
+D:\OneDrive\Рабочий стол\MyGame\MyGame\bin\Debug\net6.0\MyGame.pdb
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\MyGame.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\MyGame.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\MyGame.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\MyGame.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\MyGame.dll
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\refint\MyGame.dll
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\MyGame.pdb
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\MyGame.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\MyGame\MyGame\obj\Debug\net6.0\ref\MyGame.dll
